@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Nimr's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimr77&theme=radical&show_icons=true)
+![Nimr's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimr77&theme=radical&show_icons=true&rank_icon=github)
